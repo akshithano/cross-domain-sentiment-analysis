@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset files
+*.csv
+*.xlsx
+*.zip
+
+# Google Colab
+.drive/
+
+# System files
+.DS_Store
+Thumbs.db
